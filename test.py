@@ -1,0 +1,4 @@
+mystrong = "hello"
+print(mystrong)
+
+
